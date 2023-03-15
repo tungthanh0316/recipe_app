@@ -1,7 +1,9 @@
 # recipe_app
 
 Recipes Flutter App.
-
+Enviroments:
+- Flutter v3.7.7
+- Dart v2.19.4
 ## Best Practices
 I'm trying to follow best practices recommended by Android team:
 - [Architecture](https://developer.android.com/topic/architecture/recommendations): several Architect best practices and recommendation to improve app's quality, robustness, and scalability. They also make it easier to maintain and test the app.
