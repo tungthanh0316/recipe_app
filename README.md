@@ -17,7 +17,7 @@ It has three main modules:
     - Improves readability in classes that use domain layer classes.
     - Improves the testability of the app.
     - Avoids large classes by allowing you to split responsibilities.
-- [data]: the data layer contains application data. It is made of repositories that each can contain zero to many data sources. You should create a repository class for each different type of data you handle in the app.
+- [data](https://github.com/tungthanh0316/recipe_app/tree/main/lib/data): the data layer contains application data. It is made of repositories that each can contain zero to many data sources. You should create a repository class for each different type of data you handle in the app.
 - And a [common] module (not a main module) contains some configs and extensions of the app, and we can use it everywhere.
 
 I also add 36 linter rules - what we should follow to make our code improve readability.
