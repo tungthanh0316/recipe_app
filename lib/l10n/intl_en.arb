@@ -1,0 +1,41 @@
+{
+  "@@locale": "en",
+  "recipe_list_title": "Recipe List",
+  "get_recipe": "Get recipes",
+  "get_recipe_error": "We have some problems with connection, Tap to try again!",
+  "recipe_name_title": "Name: {name}",
+  "@recipe_name_title": {
+    "name": {
+    }
+  },
+  "recipe_protein_title": "Proteins: {protein}",
+  "@recipe_protein_title": {
+    "protein": {
+    }
+  },
+  "recipe_fats_title": "Fats: {fats}",
+  "@recipe_fats_title": {
+    "fats": {
+    }
+  },
+  "recipe_difficulty_title": "Difficulty: {difficulty}",
+  "@recipe_difficulty_title": {
+    "difficulty": {
+    }
+  },
+  "recipe_description_title": "Description: {description}",
+  "@recipe_description_title": {
+    "description": {
+    }
+  },
+  "recipe_carbos_title": "Carbos: {carbos}",
+  "@recipe_carbos_title": {
+    "carbos": {
+    }
+  },
+  "recipe_calories_title": "Calories: {calories}",
+  "@recipe_calories_title": {
+    "calories": {
+    }
+  }
+}

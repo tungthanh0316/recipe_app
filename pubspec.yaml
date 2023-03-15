@@ -1,0 +1,38 @@
+name: recipe_app
+description: A demo Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+# For Localization:
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.17.0
+
+# For State management:
+  flutter_bloc: ^8.1.2
+# For Dependency Injection (Service Locator)
+  get_it: ^7.2.0
+# For Http Request:
+  http: ^0.13.5
+
+# UI:
+  cached_network_image: ^3.2.3
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+flutter_intl:
+  enabled: true
+  main_locale: en
