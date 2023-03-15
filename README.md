@@ -1,7 +1,7 @@
 # recipe_app
 
 Recipes Flutter App.
-Enviroments:
+# Enviroments:
 - Flutter v3.7.7
 - Dart v2.19.4
 ## Best Practices
