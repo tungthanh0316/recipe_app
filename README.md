@@ -1,7 +1,7 @@
-# recipe_app
+# Recipe_app
 
 Recipes Flutter App.
-# Enviroments:
+## Enviroments:
 - Flutter v3.7.7
 - Dart v2.19.4
 ## Best Practices
@@ -25,5 +25,7 @@ It has three main modules:
 I also add 36 linter rules - what we should follow to make our code improves readability.
 Also added Localization for this application.
 
+I almost built a codebase from zero, and this app contains a lot of interesting architectures but to fit the time of a quick test, I left out a few things that not really important but in real product, I'm going to bring it back.
 Video demo:[Google drive](https://drive.google.com/file/d/1YLEZjknm_ZRIUWq4QEfcQhAg1jue_dLB/view?usp=sharing)
+Thank you for your time!
 
